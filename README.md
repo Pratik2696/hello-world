@@ -1,3 +1,3 @@
 # hello-world
 
-this is mew Project.
+this is new Project.
